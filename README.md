@@ -17,6 +17,7 @@ I'm a passionate software developer specializing in designing and implementing *
 ## 🌟 Featured Projects
 Check out some of the work I’m most proud of:
 
+## 🤖 AI & Document Intelligence
 ### [📄 OCR of Documents and Invoices (Python)](https://github.com/IdoAizenshtein/OCR-of-documents-and-invoices-Python)
 🚀 *An Optical Character Recognition (OCR) system optimized for extracting data from documents and invoices.*  
 - 📃 Accurately processes various document formats, extracting readable text for data analysis.  
@@ -32,19 +33,6 @@ Check out some of the work I’m most proud of:
 - 🔗 Built with **Node.js** (backend), **JavaScript**, and **C++** for top-notch performance across platforms.  
 - 🖥️ Utilized **Node-Webkit** for creating a seamless desktop experience with a user-friendly interface.  
 - **Technologies Used**: Node.js, C++, JavaScript, Node-webkit.  
-
-
-## 🤖 AI & Document Intelligence
-
-### Advanced OCR Solutions
-- [OCR Documents & Invoices Engine](https://github.com/IdoAizenshtein/OCR-of-documents-and-invoices-Python)
-  > State-of-the-art OCR engine specialized in complex document and invoice processing. Features advanced text recognition algorithms and intelligent data extraction.
-  `Python` `OpenCV` `Tesseract` `Machine Learning` `PDF Processing`
-
-### Financial Data Processing
-- [Banking Information Collection Suite](https://github.com/IdoAizenshtein/Banking-information-collection-software---node.js-c---js-node-webkit)
-  > Sophisticated hybrid application for automated banking data collection and processing. Combines native performance with web technologies.
-  `Node.js` `C++` `Node Webkit` `Banking APIs` `Data Processing`
 
 ## 🚀 Enterprise-Level Mobile Solutions
 
