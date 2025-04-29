@@ -17,21 +17,21 @@ I'm a passionate software developer specializing in designing and implementing *
 ## 🌟 Featured Projects
 Check out some of the work I’m most proud of:
 
-1. [🎯 **AmazingProjectName**](https://github.com/IdoAizenshtein/...)  
-   🚀 *A scalable API-based system built for managing X.*  
-   - Processed **1M+ transactions daily** while improving response times by **30%**.
-   - Implemented **rate limiting and caching** for efficient resource utilization.
-   - Tech: Node.js, Redis, PostgreSQL.
+### [📄 OCR of Documents and Invoices (Python)](https://github.com/IdoAizenshtein/OCR-of-documents-and-invoices-Python)
+🚀 *An Optical Character Recognition (OCR) system optimized for extracting data from documents and invoices.*  
+- 📃 Accurately processes various document formats, extracting readable text for data analysis.  
+- ✨ Integrated with **Python-based OCR libraries** for powerful and scalable text recognition.  
+- 🛠️ Ideal for automating invoice processing in enterprise-level document workflows.  
+- **Technologies Used**: Python, Tesseract OCR library, Image Processing.  
 
-2. [🤖 **SmartAIApp**](https://github.com/IdoAizenshtein/...)  
-   🔍 *A Machine Learning model that predicts [X use case].*  
-   - **Reduced prediction error by 20%** using advanced pre-processing techniques.
-   - Leveraged TensorFlow/Keras for model training.
+---
 
-3. [⚙️ **DevOps-Boilerplate**](https://github.com/IdoAizenshtein/...)  
-   🦾 *A fully automated CI/CD pipeline template.*  
-   - Supports AWS with Kubernetes clusters, ready for enterprise scalability.
-   - Reduced manual intervention by **40%** via pipeline automation.  
+### [🏦 Banking Information Collection Software (Node.js, C++)](https://github.com/IdoAizenshtein/Banking-information-collection-software---node.js-c---js-node-webkit)
+💡 *A feature-packed software solution for gathering and analyzing banking information.*  
+- 📂 Automates the collection process of vital banking details, streamlining financial analysis and documentation.  
+- 🔗 Built with **Node.js** (backend), **JavaScript**, and **C++** for top-notch performance across platforms.  
+- 🖥️ Utilized **Node-Webkit** for creating a seamless desktop experience with a user-friendly interface.  
+- **Technologies Used**: Node.js, C++, JavaScript, Node-webkit.  
 
 ---
 
