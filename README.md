@@ -6,7 +6,7 @@ I'm a passionate software developer specializing in designing and implementing *
 ---
 
 ## 🛠 Technologies & Tools I Work With:
-- **Software Engineering OOP**: C, C++, Java, C#, Python, Node.js
+- **Software Engineering OOP**: Expert in Object-Oriented Programming across diverse languages (C, C++, Java, C#, Python, Node.js) with a strong foundation in design principles (inheritance, polymorphism, abstraction). Proven ability to develop complex logic algorithms, manage dynamic memory, and implement efficient modular systems using packages, namespaces, and event-driven programming
 - **Server-Side Web programming OOP**: Java (Spring Boot, Reactive Spring Webflux), C#, PHP, and Python (including multithreading, multiprocessing), and Node.js. Proven ability to leverage diverse frameworks (LoopBack, Meteor, Express, Koa.js)
 - **Database programming**: Proficient in relational (MySQL, Oracle, PostgreSQL) and NoSQL (MongoDB) databases, with expertise in Java database connectivity (JPA, JDBC, R2DBC, Hibernate, Reactive Hibernate). Experienced with Big Data technologies (Hadoop, Kafka, Spark) and ORM frameworks (Sequelize)
 - **Client-Side Web Programming**: Expert in modern JavaScript frameworks (Angular 2+, AngularJS, React, Vue.js) and state management (Redux, RxJS). Proficient in advanced JavaScript/TypeScript concepts, UI libraries (jQuery, Highcharts), RESTful API integration, WebSocket communication, and responsive front-end development using HTML5, CSS3, and preprocessors (LESS, SASS, SCSS)
