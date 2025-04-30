@@ -6,11 +6,13 @@ I'm a passionate software developer specializing in designing and implementing *
 ---
 
 ## 🛠 Technologies & Tools I Work With:
-- **Programming Languages**: Python, Java, JavaScript, TypeScript
-- **Backend & Databases**: Node.js, Spring Boot, PostgreSQL, MongoDB
-- **Cloud Platforms**: AWS, Azure
-- **DevOps**: Docker, Kubernetes, CI/CD pipelines
-- **Frameworks/Tools**: React, Flask, Terraform
+- **Software Engineering OOP**: C, C++, Java, C#, Python, Node.js
+- **Server-Side Web programming OOP**: Java (Spring Boot, Reactive Spring Webflux), C#, PHP, and Python (including multithreading, multiprocessing), and Node.js. Proven ability to leverage diverse frameworks (LoopBack, Meteor, Express, Koa.js)
+- **Database programming**: Proficient in relational (MySQL, Oracle, PostgreSQL) and NoSQL (MongoDB) databases, with expertise in Java database connectivity (JPA, JDBC, R2DBC, Hibernate, Reactive Hibernate). Experienced with Big Data technologies (Hadoop, Kafka, Spark) and ORM frameworks (Sequelize)
+- **Client-Side Web Programming**: Expert in modern JavaScript frameworks (Angular 2+, AngularJS, React, Vue.js) and state management (Redux, RxJS). Proficient in advanced JavaScript/TypeScript concepts, UI libraries (jQuery, Highcharts), RESTful API integration, WebSocket communication, and responsive front-end development using HTML5, CSS3, and preprocessors (LESS, SASS, SCSS)
+- **Applications**: Proficient in native iOS development (Objective-C, Swift) and Android development (Java/Android Studio). Experienced in cross-platform mobile development using React Native and Cordova, leveraging libraries like Ionic and jQuery Mobile, including extensive use of Cordova plugins
+- **Cloud services**: Experienced with major cloud platforms including AWS (EC2, S3, Lambda), Google Cloud (App Engine, Storage, Cloud Build), and Oracle Cloud. Proficient in managing virtual machines and configuring custom domains
+- **DevOps & Security & AI and Media Processing**: Experienced with containerization (Docker, Kubernetes), CI/CD (Jenkins) security best practices (OWASP), network technologies (VPN, TCP/UDP), version control (Git, SVN). OCR (Tesseract, Textract, Cloud Vision), Document Image Processing (Python, Obj-C, Java), AI APIs (ChatGPT, Google Speech-to-Text)
 
 ---
 
