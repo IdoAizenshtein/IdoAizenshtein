@@ -1,7 +1,7 @@
 # Hi there, I'm Ido Aizenshtein 👋  
-**🚀 Software Engineer | 💾 Distributed Systems | ⛅ Cloud Enthusiast**
+**🚀 Senior Software Engineer | 💾 Distributed Systems | ⛅ Cloud Enthusiast | 🔍 API Specialist | 👨‍💼 Founder & Team Leader**
 
-I'm a passionate software developer specializing in designing and implementing **efficient, scalable distributed systems**. I am particularly skilled in improving performance, cost optimization, and solving engineering challenges in high-demand systems.
+I'm a passionate senior software engineer specializing in designing and implementing **efficient, scalable distributed systems**. I am particularly skilled in improving performance, cost optimization, and solving engineering challenges in high-demand systems.
 
 ---
 
@@ -17,7 +17,19 @@ I'm a passionate software developer specializing in designing and implementing *
 ---
 
 ## 🌟 Featured Projects
-Check out some of the work I’m most proud of:
+Check out some of the work I'm most proud of:
+
+## 🔍 API Development & Tools
+
+### [🔎 API Compass - Automated API Discovery Tool](https://github.com/IdoAizenshtein/api-compass)
+🚀 *An innovative open-source tool that automatically discovers, documents, and tests REST API endpoints.*
+- 🔍 **Automated API Discovery**: Intelligently scans web applications to detect API endpoints without manual tracing
+- 📝 **Interactive Documentation**: Generates comprehensive OpenAPI/Swagger documentation with testing capabilities
+- 🔄 **Normalized Endpoints**: Automatically identifies URL patterns and parameters for consistent documentation
+- 🛡️ **API Proxy**: Built-in proxy functionality to avoid CORS issues during API testing
+- ⚡ **High-Performance Architecture**: Leverages Redis caching and Node.js clustering for production workloads
+- 🔒 **Security-Focused**: Implements rate limiting, XSS protection, and comprehensive security measures
+- **Technologies Used**: Node.js, Express, Puppeteer, Redis, React, Next.js, Tailwind CSS
 
 ## 🤖 AI & Document Intelligence
 ### [📄 OCR of Documents and Invoices (Python)](https://github.com/IdoAizenshtein/OCR-of-documents-and-invoices-Python)
@@ -91,12 +103,34 @@ Check out some of the work I’m most proud of:
 
 ---
 
-## 📈 What I’m Focused On Right Now:
+## 📈 What I'm Focused On Right Now:
 - Building high-performance applications using **microservice architectures**.
+- Developing innovative **API discovery and documentation tools**.
 - Exploring the latest in **AI/ML innovations**.
 - Hosting scalable backend systems with **cloud-native architecture**.
 
 ---
+
+## 🏆 Professional Achievements
+- Founded and led engineering teams building mission-critical systems
+- Created **API Compass**, an open-source tool helping engineers discover and document REST APIs automatically
+- Engineered distributed systems handling millions of transactions daily
+- Developed high-performance mobile applications with enterprise-grade security
+- Implemented cloud-native architectures reducing operational costs by over 40%
+
+## 💡 Featured Technical Skills
+- **Leadership & Team Management**: Technical team leadership, project planning, mentoring, code review processes
+- **API Development & Integration**: REST API design, API documentation automation, Swagger/OpenAPI, API gateway implementation, URL normalization, query parameter extraction
+- **Distributed Systems**: Microservices architecture, message queues, scalable backend systems, load balancing, Redis caching
+- **Performance Optimization**: Database tuning, code profiling, memory management, network optimization, WebSocket communication
+- **Cloud Infrastructure**: Serverless computing, container orchestration, infrastructure as code, multi-cloud deployment
+- **Web Technologies**: Next.js, React, TailwindCSS, Express.js, Node.js, TypeScript, Angular, Vue.js
+- **Mobile Development**: React Native, Android SDK, iOS (Swift/Objective-C), Cross-platform solutions
+- **Security Engineering**: XSS protection, rate limiting, helmet security, authentication systems, OTP implementation
+- **DevOps & Tooling**: Docker, Kubernetes, CI/CD pipelines, Puppeteer for automated testing
+
+## 🔍 Keywords & Areas of Expertise
+Senior Software Engineer, Technical Leadership, Team Lead, Full Stack Development, API Compass, API Discovery Tool, REST API Design, API Documentation Generation, Swagger Integration, OpenAPI Specification, URL Normalization, Parameter Extraction, Headless Browser Automation, Puppeteer, Web Scraping, React.js, Next.js, Node.js, Express.js, Redis Caching, Microservice Architecture, TailwindCSS, Mobile Development, React Native, iOS Development, Android Development, OCR Solutions, Document Processing, Banking Software, Authentication Systems, Spring WebFlux, R2DBC, PostgreSQL, AWS Lambda, Serverless Computing, System Performance Optimization, Cloud Infrastructure, Security Implementation, XSS Protection, Rate Limiting, PDF Processing, Computer Vision, CI/CD Implementation, Distributed Systems, Real-time Data Processing
 
 ## 💌 Let's Connect
 - [📫 Email](mailto:idoaizenshtein@gmail.com)
