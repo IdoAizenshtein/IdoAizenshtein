@@ -37,7 +37,16 @@ Check out some of the work I'm most proud of:
 - 📃 Accurately processes various document formats, extracting readable text for data analysis.  
 - ✨ Integrated with **Python-based OCR libraries** for powerful and scalable text recognition.  
 - 🛠️ Ideal for automating invoice processing in enterprise-level document workflows.  
-- **Technologies Used**: Python, Tesseract OCR library, Image Processing.  
+- **Technologies Used**: Python, Tesseract OCR library, Image Processing.
+
+## 🤖 SmartCache
+### [📄 Intercepts, caches, and syncs offline HTTP requests (JavaScript)](https://github.com/IdoAizenshtein/smartcache)
+SmartCache is a lightweight Service Worker library that can be seamlessly integrated into any website. Once installed, it intercepts all network requests initiated by the page and:
+- Caches all GET and HEAD requests via the Cache API under a configurable CACHE_NAME, enabling instant offline retrieval and reduced latency.
+- Persists other HTTP methods (POST, PUT, DELETE, etc.) into IndexedDB under a configurable database and store name, ensuring that data-changing operations performed while offline are not lost.
+- Automatically replays stored requests when the user returns online, keeping server-side data synchronized without manual intervention.
+- Refreshes cached resources on reconnection, so that updated content is fetched and stored for future offline use.
+- SmartCache also supports versioning of both the cache and IndexedDB schema, and can broadcast real-time notifications to the client page about cache hits, offline usage, and sync events via postMessage.
 
 ---
 
